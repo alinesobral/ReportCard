@@ -1,5 +1,3 @@
-package reportCardProject;
-
 public class ReportCard {
 	private String studentId;
 	private String name;
